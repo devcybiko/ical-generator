@@ -1,0 +1,14 @@
+{
+  "name": "ical-generator",
+  "version": "1.0.0",
+  "description": "Converts a csv file into an iCal .ics file ready to be imported into an Outlook Calendar for example. [Live Demo](http://flowor.github.io/ical-generator)",
+  "main": "csv-to-ical.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glstools": "^1.8.17"
+  }
+}
